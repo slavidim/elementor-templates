@@ -1,5 +1,5 @@
 {
-    "timestamp": 1591953031,
+    "timestamp": 1591962634,
     "upgrade_notice": {
         "version": "2.0.1",
         "message": "",
@@ -71,7 +71,7 @@
                 "type": "page",
                 "subtype": "page",
                 "tags": "[]",
-                "menu_order": "0",
+                "menu_order": "2",
                 "popularity_index": "0",
                 "trend_index": "0",
                 "has_page_settings": "0"
