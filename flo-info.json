@@ -75,6 +75,21 @@
                 "popularity_index": "0",
                 "trend_index": "0",
                 "has_page_settings": "0"
+            },
+            {
+                "id": "contact-page",
+                "title": "Block UI Kit",
+                "thumbnail": "https://library.elementor.com/wp-content/uploads/2016/09/library-ui-kit-cover.png",
+                "tmpl_created": "1475067229",
+                "author": "Elementor",
+                "url": "https://library.elementor.com/hero-ui-kit/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
+                "type": "page",
+                "subtype": "page",
+                "tags": "[\"contact\"]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
             }
         ]
     }
