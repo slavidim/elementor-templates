@@ -48,7 +48,7 @@
         "templates": [
             {
                 "id": "2",
-                "title": "Hero 1",
+                "title": "Block 1",
                 "thumbnail": "https://library.elementor.com/wp-content/uploads/2018/03/heroo_black_4.png",
                 "tmpl_created": "1520443695",
                 "author": "Elementor",
@@ -63,7 +63,7 @@
             },
             {
                 "id": "1",
-                "title": "Hero UI Kit",
+                "title": "Block UI Kit",
                 "thumbnail": "https://library.elementor.com/wp-content/uploads/2016/09/library-ui-kit-cover.png",
                 "tmpl_created": "1475067229",
                 "author": "Elementor",
