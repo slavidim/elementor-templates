@@ -90,6 +90,21 @@
                 "popularity_index": "0",
                 "trend_index": "0",
                 "has_page_settings": "0"
+            },
+            {
+                "id": "4",
+                "title": "Block UI Kit",
+                "thumbnail": "https://raw.githubusercontent.com/slavidim/elementor-templates/master/thumbnails/Img.jpg",
+                "tmpl_created": "1475067229",
+                "author": "Elementor",
+                "url": "https://library.elementor.com/hero-ui-kit/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
+                "type": "block",
+                "subtype": "hero",
+                "tags": "[\"hero\"]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
             }
         ]
     }
