@@ -1,5 +1,5 @@
 {
-    "timestamp": 1592808194,
+    "timestamp": 1592811005,
     "upgrade_notice": {
         "version": "2.0.1",
         "message": "",
@@ -49,6 +49,7 @@
         "templates": [
             {
                 "id": "1",
+                "source": "remote",
                 "title": "Home Page [A]",
                 "thumbnail": "http://fiji-elementor.flywheelsites.com/thumbnails/home-page-1.jpg",
                 "tmpl_created": "1592808194",
