@@ -65,6 +65,7 @@
             },
             {
                 "id": "2",
+                "source": "remote",
                 "title": "FAQ Slider",
                 "thumbnail": "http://fiji-elementor.flywheelsites.com/thumbnails/faq-slider.jpg",
                 "tmpl_created": "1592808194",
@@ -80,6 +81,7 @@
             },
             {
                 "id": "3",
+                "source": "remote",
                 "title": "Contact Header [A]",
                 "thumbnail": "http://fiji-elementor.flywheelsites.com/thumbnails/faq-slider.jpg",
                 "tmpl_created": "1592808194",
