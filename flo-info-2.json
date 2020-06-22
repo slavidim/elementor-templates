@@ -72,7 +72,7 @@
       ],
       "templates":[
          {
-            "id":"1",
+            "id":111,
             "source":"remote",
             "title":"Home Page [A]",
             "thumbnail":"http://fiji-elementor.flywheelsites.com/thumbnails/home-page-1.jpg",
@@ -90,7 +90,7 @@
             "has_page_settings":"0"
          },
          {
-            "id":"2",
+            "id":112,
             "source":"remote",
             "title":"FAQ Slider",
             "thumbnail":"http://fiji-elementor.flywheelsites.com/thumbnails/faq-slider.jpg",
@@ -108,7 +108,7 @@
             "has_page_settings":"0"
          },
          {
-            "id":"3",
+            "id":113,
             "source":"remote",
             "title":"Contact Header [A]",
             "thumbnail":"http://fiji-elementor.flywheelsites.com/thumbnails/faq-slider.jpg",
@@ -126,7 +126,7 @@
             "has_page_settings":"0"
          },
          {
-            "id":"4",
+            "id":114,
             "source":"remote",
             "title":"Contact Header [B]",
             "thumbnail":"http://fiji-elementor.flywheelsites.com/thumbnails/faq-slider.jpg",
