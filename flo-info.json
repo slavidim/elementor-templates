@@ -30,7 +30,8 @@
                     "stats",
                     "subscribe",
                     "team",
-                    "testimonials"
+                    "testimonials",
+                    "flo"
                 ]
             },
             "popup": {
@@ -44,7 +45,7 @@
                 ]
             }
         },
-        "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
+        "categories": "[\"flo\",\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
         "templates": [
             {
                 "id": "2",
@@ -99,8 +100,8 @@
                 "author": "Flo Elementor",
                 "url": "https://library.elementor.com/hero-ui-kit/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
                 "type": "block",
-                "subtype": "hero",
-                "tags": "[\"hero\"]",
+                "subtype": "flo",
+                "tags": "[\"flo\"]",
                 "menu_order": "1",
                 "popularity_index": "0",
                 "trend_index": "0",
