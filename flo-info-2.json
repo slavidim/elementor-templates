@@ -1,0 +1,97 @@
+{
+    "timestamp": 1592808194,
+    "upgrade_notice": {
+        "version": "2.0.1",
+        "message": "",
+        "update_link": ""
+    },
+    "library": {
+        "types_data": {
+            "block": {
+                "categories": [
+                    "404 page1",
+                    "about2",
+                    "archive3",
+                    "call to action",
+                    "clients",
+                    "contact",
+                    "faq",
+                    "features",
+                    "footer",
+                    "header",
+                    "hero",
+                    "portfolio",
+                    "pricing",
+                    "product archive",
+                    "services",
+                    "single page",
+                    "single post",
+                    "single product",
+                    "stats",
+                    "subscribe",
+                    "team",
+                    "testimonials",
+                    "flo"
+                ]
+            },
+            "popup": {
+                "categories": [
+                    "bottom bar",
+                    "classic",
+                    "fly-in",
+                    "full screen",
+                    "hello bar",
+                    "slide-in"
+                ]
+            }
+        },
+        "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\",\"flo\"]",
+        "templates": [
+            {
+                "id": "1",
+                "title": "Home Page [A]",
+                "thumbnail": "http://fiji-elementor.flywheelsites.com/thumbnails/home-page-1.jpg",
+                "tmpl_created": "1592808194",
+                "author": "Flo Elementor",
+                "url": "http://localhost/flo_elementor/?elementor_library=home-page-a",
+                "type": "page",
+                "subtype": "page",
+                "tags": "[]",
+                "menu_order": "2",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            },
+            {
+                "id": "2",
+                "title": "FAQ Slider",
+                "thumbnail": "http://fiji-elementor.flywheelsites.com/thumbnails/faq-slider.jpg",
+                "tmpl_created": "1592808194",
+                "author": "Flo Elementor",
+                "url": "http://localhost/flo_elementor/?elementor_library=faq-slider",
+                "type": "block",
+                "subtype": "hero",
+                "tags": "[\"hero\"]",
+                "menu_order": "1",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            },
+            {
+                "id": "3",
+                "title": "Contact Header [A]",
+                "thumbnail": "http://fiji-elementor.flywheelsites.com/thumbnails/faq-slider.jpg",
+                "tmpl_created": "1592808194",
+                "author": "Flo Elementor",
+                "url": "http://localhost/flo_elementor/?elementor_library=faq-slider",
+                "type": "block",
+                "subtype": "flo",
+                "tags": "[\"flo\"]",
+                "menu_order": "1",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            }
+        ]
+    }
+}
