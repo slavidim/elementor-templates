@@ -1,5 +1,5 @@
 {
-    "timestamp": 1592815510,
+    "timestamp": 15928152115,
     "upgrade_notice": {
         "version": "2.0.1",
         "message": "",
@@ -45,7 +45,7 @@
                 ]
             }
         },
-        "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\",\"flo\"]",
+        "categories": ["404 page","about","archive","call to action","clients","contact","faq","features","footer","header","hero","portfolio","pricing","product archive","services","single page","single post","single product","stats","subscribe","team","testimonials","flo"],
         "templates": [
             {
                 "id": "1",
